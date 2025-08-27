@@ -126,10 +126,15 @@ $ git push origin master
 
 References
 
-Danby, J.M.A. (1993). Classical Orbital Dynamics. 
+Danby, J.M.A. (1993). Classical Orbital Dynamics.
+
 Hartle, J.B. (2004). Gravity. 
-NASA's SPK Toolkit documentation 
-Open Source Astronomy Library (OSAL) documentation
+
+NASA's SPK Toolkit documentation.
+
+Open Source Astronomy Library (OSAL) documentation.
+
 "Classical Orbital Dynamics" by J.M.A. Danby (1993) - This book provides a comprehensive introduction to orbital mechanics, including gravitational forces and satellite orbits. 
+
 "Gravity" by James B. Hartle (2004) - This textbook covers the fundamental principles of gravity, including Newtonian and relativistic approaches.
 
