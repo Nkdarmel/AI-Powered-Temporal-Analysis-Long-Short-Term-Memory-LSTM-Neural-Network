@@ -5,7 +5,8 @@ Project Modelling
 
 We'll use a combination of algorithms and mathematical techniques to analyze the satellite's orbital behavior. To start, we'll apply Kepler's laws to calculate the satellite's position at any given time. This will involve determining whether its orbit is elliptical or not, as well as calculating equal areas swept out in equal times. Next, we'll calculate the satellite's orbital elements, including its semi-major axis, eccentricity, inclination, right ascension of the ascending node, and argument of perigee. These calculations will provide a comprehensive understanding of the satellite's orbit. Additionally, we'll use Newtonian gravity or relativistic corrections to calculate the gravitational forces acting on the satellite, taking into account any perturbations that may affect its motion. Finally, we'll employ numerical integration techniques, such as the Runge-Kutta method, to simulate the satellite's motion over time and generate a detailed picture of its orbital behavior.
 
-Numerical Integration: Runge-Kutta-Fehlberg (RKF) Algorithm
+Numerical Integration-Runge-Kutta-Fehlberg (RKF) Algorithm
+
 This algorithm uses Kepler's laws to calculate the satellite's position at any given time and applies gravitational forces from Earth and Sun. The numerical integration technique (Runge-Kutta method) is used to simulate the satellite's motion over a specified time frame.
 
 The RKF algorithm is used to solve ordinary differential equations (ODEs) that describe the satellite's motion. The ODEs are typically written in the form:
