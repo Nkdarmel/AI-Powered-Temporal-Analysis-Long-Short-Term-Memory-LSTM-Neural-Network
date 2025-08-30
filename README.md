@@ -6,21 +6,7 @@ Next, we will compute the satellite's orbital elements, including semi-major axi
 To further refine our analysis, we will apply Newtonian gravity or relativistic corrections to calculate the gravitational forces acting on the satellite, taking into account any perturbations that may affect its motion [3]. Finally, we will employ numerical integration techniques, such as the Runge-Kutta method [4], to simulate the satellite's motion over time and generate a detailed picture of its orbital behavior.
 This paper aims to provide a comprehensive framework for understanding and analyzing satellite orbital behavior, with applications in various fields including space exploration [5], navigation [6], and astronomy [7].
 
-References 
 
- [1] Kepler (1609).
- 
- [2] e.g. Vallado (2004), Bate et al. (1971). 
- 
- [3] Runge-Kutta method, Press et al. (1992). 
- 
- [4] NASA. 
- 
- [5] ESA.
- 
- [6] GPS, GLONASS, Galileo. 
- 
- [7] IAU, Astronomical Society of the Pacific.
 
 Project Modelling
 
@@ -276,7 +262,21 @@ def numerical_integration(t0, tf, dt):
         logger.error(f"Error: {e}")
 ```
 
-References
+References 
+
+ [1] Kepler (1609).
+ 
+ [2] e.g. Vallado (2004), Bate et al. (1971). 
+ 
+ [3] Runge-Kutta method, Press et al. (1992). 
+ 
+ [4] NASA. 
+ 
+ [5] ESA.
+ 
+ [6] GPS, GLONASS, Galileo. 
+ 
+ [7] IAU, Astronomical Society of the Pacific.
 
 Danby, J.M.A. (1993). Classical Orbital Dynamics.
 
