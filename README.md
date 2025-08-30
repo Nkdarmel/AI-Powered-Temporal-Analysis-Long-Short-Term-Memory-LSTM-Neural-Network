@@ -9,11 +9,17 @@ This paper aims to provide a comprehensive framework for understanding and analy
 References 
 
  [1] Kepler (1609).
+ 
  [2] e.g. Vallado (2004), Bate et al. (1971). 
+ 
  [3] Runge-Kutta method, Press et al. (1992). 
+ 
  [4] NASA. 
+ 
  [5] ESA.
+ 
  [6] GPS, GLONASS, Galileo. 
+ 
  [7] IAU, Astronomical Society of the Pacific.
 
 Project Modelling
