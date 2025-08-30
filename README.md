@@ -1,6 +1,21 @@
 # AI-Powered-Temporal-Analysis-Long-Short-Term-Memory-LSTM-Neural-Network
 Satellite tracking crucial for space exploration &amp; communication. Accurate predictions enable efficient resource allocation, scheduling &amp; collision avoidance. We develop innovative method using numerical integration & AI-powered temporal analysis to predict satellite positions.
 
+This paper presents an innovative approach to analyzing satellite orbital behavior, combining algorithms and mathematical techniques. We will employ Kepler's laws [1] to calculate the satellite's position at any given time, determining whether its orbit is elliptical or not, as well as calculating equal areas swept out in equal times. This calculation will provide a fundamental understanding of the satellite's motion.
+Next, we will compute the satellite's orbital elements, including semi-major axis, eccentricity, inclination, right ascension of the ascending node, and argument of perigee [2]. These calculations will provide a comprehensive understanding of the satellite's orbit.
+To further refine our analysis, we will apply Newtonian gravity or relativistic corrections to calculate the gravitational forces acting on the satellite, taking into account any perturbations that may affect its motion [3]. Finally, we will employ numerical integration techniques, such as the Runge-Kutta method [4], to simulate the satellite's motion over time and generate a detailed picture of its orbital behavior.
+This paper aims to provide a comprehensive framework for understanding and analyzing satellite orbital behavior, with applications in various fields including space exploration [5], navigation [6], and astronomy [7].
+
+References 
+
+ [1] Kepler (1609).
+ [2] e.g. Vallado (2004), Bate et al. (1971). 
+ [3] Runge-Kutta method, Press et al. (1992). 
+ [4] NASA. 
+ [5] ESA.
+ [6] GPS, GLONASS, Galileo. 
+ [7] IAU, Astronomical Society of the Pacific.
+
 Project Modelling
 
 We'll use a combination of algorithms and mathematical techniques to analyze the satellite's orbital behavior. To start, we'll apply Kepler's laws to calculate the satellite's position at any given time. This will involve determining whether its orbit is elliptical or not, as well as calculating equal areas swept out in equal times. Next, we'll calculate the satellite's orbital elements, including its semi-major axis, eccentricity, inclination, right ascension of the ascending node, and argument of perigee. These calculations will provide a comprehensive understanding of the satellite's orbit. Additionally, we'll use Newtonian gravity or relativistic corrections to calculate the gravitational forces acting on the satellite, taking into account any perturbations that may affect its motion. Finally, we'll employ numerical integration techniques, such as the Runge-Kutta method, to simulate the satellite's motion over time and generate a detailed picture of its orbital behavior.
