@@ -1,0 +1,40 @@
+version: 1
+name: Repository Achievement
+type: evidence-based-profile
+status: research-prototype
+criteria:
+  feasible:
+    status: documented
+    evidence: README.md
+  accessible:
+    status: documented
+    evidence:
+      - README.md
+      - LICENSE
+      - public issue tracker
+  interoperable:
+    status: documented
+    evidence:
+      - README.md
+      - Data
+      - Data_1
+      - Data_2
+  reproducible:
+    status: partial
+    evidence:
+      - README.md
+      - ACHIEVEMENTS.md
+    pending:
+      - pinned environment
+      - one-command experiment
+      - automated tests and CI
+      - versioned dataset and result archive
+verification:
+  policy: Do not mark a criterion complete without committed evidence.
+  record:
+    - commit_sha
+    - data_version
+    - runtime_and_dependencies
+    - experiment_parameters
+    - random_seed
+    - metrics
